@@ -277,16 +277,31 @@ Las contribuciones son bienvenidas. Por favor, siga estos pasos para contribuir:
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👨‍💻 Autor
-
-![David Fonseca](https://github.com/DavidCreat.png)
-
-**David Fonseca**  
-Desarrollador Full Stack | Matemático | Universidad de Salamanca
-
-[![Website](https://img.shields.io/badge/Website-eas1.com.es-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://eas1.com.es/)
-[![GitHub](https://img.shields.io/badge/GitHub-DavidCreat-181717?style=flat-square&logo=github)](https://github.com/DavidCreat)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--5972--2687-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-5972-2687)
-
----
-
-© 2025 David Fonseca - Todos los derechos reservados
+ 
+ <div align="center">
+   <a href="https://github.com/DavidCreat">
+     <img src="https://github.com/DavidCreat.png" width="100px" alt="David Fonseca" style="border-radius:50%;">
+   </a>
+   
+   <h3>David Fonseca</h3>
+   <p>Desarrollador Full Stack | Entusiasta de DevOps | Creador de Experiencias Web Innovadoras</p>
+   
+   <p>
+     <a href="https://eas1.com.es/" target="_blank">
+       <img src="https://img.shields.io/badge/Website-eas1.com.es-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+     </a>
+     <a href="https://github.com/DavidCreat" target="_blank">
+       <img src="https://img.shields.io/badge/GitHub-DavidCreat-181717?style=flat-square&logo=github" alt="GitHub">
+     </a>
+     <a href="https://orcid.org/0009-0001-5972-2687" target="_blank">
+       <img src="https://img.shields.io/badge/ORCID-0009--0001--5972--2687-green?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
+     </a>
+   </p>
+ </div>
+ 
+ ---
+ 
+ <div align="center">
+   <p>Desarrollado con ❤️ por <a href="https://github.com/DavidCreat">David Fonseca</a></p>
+   <p>© 2025 - Todos los derechos reservados</p>
+ </div>
